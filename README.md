@@ -1,5 +1,19 @@
 ﻿## Hi there 👋
+My nickname(name in Internet) is VeryrrDefine. I am in time zone UTC+08:00.
+I am a incremental game developer.
 
+- 📫 How to reach me:
+- -  hrp1167@outlook.com
+  -  1308061599@qq.com
+- 😄 神奇的称号:
+- - VeryrrDefine
+  - yireojegren
+  - 名称被头炸了(ming2 cheng1 ba3 tou2 zha4 le)(<span style='font-family: "Times New Roman"'>/mɪŋ˧˥ ʈʂʰɤŋ˧ pa˨˩˦ tʰoʊ˧˥ ʈʂa˥˩ lɤ/</span>)
+  - very_6
+  - very_9
+  - very_666666666
+
+<!--
 **VeryrrDefine/VeryrrDefine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 - 
+-->
