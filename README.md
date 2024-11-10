@@ -2,9 +2,6 @@
 My nickname(name in Internet) is VeryrrDefine. I am in time zone UTC+08:00.
 I am a incremental game developer.
 
-- 📫 How to reach me:
-- -  hrp1167@outlook.com
-  -  1308061599@qq.com
 - 😄 神奇的称号:
 - - VeryrrDefine
   - yireojegren
