@@ -6,6 +6,10 @@ I am a incremental game developer.
 - - VeryrrDefine
   - yireojegren
 
+- ➕😁 ➖😨 Recent Arcaea Potential Record
+- - 2025-06-15 10.12 +0.07
+  - 2025-06-14 10.05
+
 <!--
 **VeryrrDefine/VeryrrDefine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
