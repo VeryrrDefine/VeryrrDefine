@@ -7,7 +7,8 @@ I am a incremental game developer.
   - yireojegren
 
 - ➕😁 ➖😨 Recent Arcaea Potential Record
-- - 2025-06-16 10.34 +0.14
+- - 2025-06-17 10.94 +0.04
+  - 2025-06-16 10.34 +0.14
   - 2025-06-15 10.20 +0.16
   - 2025-06-14 10.04
 
