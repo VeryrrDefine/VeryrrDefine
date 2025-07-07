@@ -6,12 +6,13 @@ I am a incremental game developer.
 - - VeryrrDefine
   - yireojegren
 
-- ➕😁 ➖😨 Recent Arcaea Potential Record
-- - 2025-06-17 10.94 +0.04
+- ➕😁 ➖😨 Recent Arcaea Potential Record (ID 479 476 559)
+- - 2025-07-07 10.63
   - 2025-06-16 10.34 +0.14
   - 2025-06-15 10.20 +0.16
   - 2025-06-14 10.04
 
+这到底我滴妈是什么鬼东西😱我的妈啊🧐我妈这到底是什么鬼东西😭我的妈😨我这是怎么什么我的天这到底是什么我的妈这到底是什么什么鬼东西💀我的天啊我去这到底我的妈啊我这到底是什么鬼东西🤔我这去这到底是什么啊😮的妈妈咪我去我到底我滴妈😧是什么鬼东西我的妈啊🤯我妈这到底是什么鬼东西😯我的妈我去这是什么我的天😟这是到底是什么我的妈这到底是什么什么鬼东西☠️我的天啊我去这到底我的妈啊我么鬼东西🤮我去我的妈妈啊😖我的天啊这到底我去我妈啊🦌🦌🦌这到底我滴妈是什么鬼东西😱我的妈啊🧐我妈这到底是什么
 <!--
 **VeryrrDefine/VeryrrDefine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
