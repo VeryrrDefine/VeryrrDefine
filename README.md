@@ -1,4 +1,21 @@
-﻿## Hi there 👋
+## Statement: Account Identity Clarification
+
+Hello,
+
+My username is VeryrrDefine, and I want to clarify that I am not an alternate account (alt) of **him that who sent a lot of "棍母"**. My account is entirely separate, and any claims suggesting otherwise are incorrect.
+
+If there has been confusion due to similar activity, naming conventions, or any other reason, please note that this is coincidental. I do not control, operate, or have any affiliation with the aforementioned accounts.
+
+Also, my friend help me visit Discord (because I cannot visit Discord), and I know someone created a channel which called *AD: PowiainaNum port*.
+
+Thank you for understanding, and feel free to reach out if further clarification is needed.
+
+— VeryrrDefine
+
+
+
+<!--
+ ## Hi there 👋
 My nickname(name in Internet) is VeryrrDefine. I am in time zone UTC+08:00.
 I am a incremental game developer.
 
@@ -12,8 +29,6 @@ I am a incremental game developer.
   - 2025-06-15 10.20 +0.16
   - 2025-06-14 10.04
 
-这到底我滴妈是什么鬼东西😱我的妈啊🧐我妈这到底是什么鬼东西😭我的妈😨我这是怎么什么我的天这到底是什么我的妈这到底是什么什么鬼东西💀我的天啊我去这到底我的妈啊我这到底是什么鬼东西🤔我这去这到底是什么啊😮的妈妈咪我去我到底我滴妈😧是什么鬼东西我的妈啊🤯我妈这到底是什么鬼东西😯我的妈我去这是什么我的天😟这是到底是什么我的妈这到底是什么什么鬼东西☠️我的天啊我去这到底我的妈啊我么鬼东西🤮我去我的妈妈啊😖我的天啊这到底我去我妈啊🦌🦌🦌这到底我滴妈是什么鬼东西😱我的妈啊🧐我妈这到底是什么
-<!--
 **VeryrrDefine/VeryrrDefine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   - 名称被头炸了(ming2 cheng1 ba3 tou2 zha4 le)(<span style='font-family: "Times New Roman"'>/mɪŋ˧˥ ʈʂʰɤŋ˧ pa˨˩˦ tʰoʊ˧˥ ʈʂa˥˩ lɤ/</span>)
