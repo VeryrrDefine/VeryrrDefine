@@ -1,23 +1,5 @@
-## Statement: Account Identity Clarification
-
-Hello,
-
-My username is VeryrrDefine, and I want to clarify that I am not an alternate account (alt) of **him that who sent a lot of "棍母"**. My account is entirely separate, and any claims suggesting otherwise are incorrect.
-
-If there has been confusion due to similar activity, naming conventions, or any other reason, please note that this is coincidental. I do not control, operate, or have any affiliation with the aforementioned accounts.
-
-Also, my friend help me visit Discord (because I cannot visit Discord), and I know someone created a channel which called *AD: PowiainaNum port*.
-
-Thank you for understanding, and feel free to reach out if further clarification is needed.
-
-— VeryrrDefine
-
-
-
-<!--
- ## Hi there 👋
-My nickname(name in Internet) is VeryrrDefine. I am in time zone UTC+08:00.
-I am a incremental game developer.
+## Hi there 👋
+My name is VeryrrDefine. I am in time zone UTC+08:00.
 
 - 😄 My other nicknames:
 - - VeryrrDefine
@@ -28,6 +10,17 @@ I am a incremental game developer.
   - 2025-06-16 10.34 +0.14
   - 2025-06-15 10.20 +0.16
   - 2025-06-14 10.04
+
+[![VeryrrDefine's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeryrrDefine&show_icons=true&theme=radical)](https://github.com/VeryrrDefine)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VeryrrDefine&theme=dark)](https://github.com/VeryrrDefine)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+<!--
+
 
 **VeryrrDefine/VeryrrDefine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
