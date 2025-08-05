@@ -16,6 +16,23 @@ My name is VeryrrDefine. I am in time zone UTC+08:00.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VeryrrDefine&theme=dark)](https://github.com/VeryrrDefine)
 
 <!--START_SECTION:waka-->
+
+```python
+From: 02 August 2025 - To: 04 August 2025
+
+Total Time: 2 hrs 49 mins
+
+TypeScript   1 hr 16 mins    >>>>>>>>>>>==============   45.14 %
+JavaScript   1 hr 8 mins     >>>>>>>>>>===============   40.51 %
+Vue.js       11 mins         >>=======================   06.58 %
+Markdown     4 mins          >========================   02.42 %
+HTML         2 mins          =========================   01.38 %
+TSConfig     2 mins          =========================   01.29 %
+SCSS         0 secs          =========================   00.20 %
+Other        0 secs          =========================   00.17 %
+CSS          0 secs          =========================   00.10 %
+```
+
 <!--END_SECTION:waka-->
 
 
