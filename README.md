@@ -18,7 +18,7 @@ My name is VeryrrDefine. I am in time zone UTC+08:00.
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 August 2025 - To: 23 November 2025
+From: 02 August 2025 - To: 24 November 2025
 
 Total Time: 480 hrs 7 mins
 
