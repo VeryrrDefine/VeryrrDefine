@@ -11,6 +11,13 @@ My name is VeryrrDefine. I am in time zone UTC+08:00.
   - 2025-06-15 10.20 +0.16
   - 2025-06-14 10.04
 
+- Googology
+- - [Googology Wiki(CN) Baixie01000a7](https://wiki.googology.top/index.php/%E7%94%A8%E6%88%B7:Baixie01000a7)
+  - [Googology Wiki VeryRRDefine](http://googology.fandom.com/wiki/User:VeryRRDefine)
+
+![Baixie](https://rbn-rewrite-team.github.io/RBNR/baixie.png)
+
+
 [![VeryrrDefine's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeryrrDefine&show_icons=true&theme=radical)](https://github.com/VeryrrDefine)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VeryrrDefine&theme=dark)](https://github.com/VeryrrDefine)
