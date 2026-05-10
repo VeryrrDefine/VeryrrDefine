@@ -25,19 +25,19 @@ My name is VeryrrDefine. I am in time zone UTC+08:00.
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 August 2025 - To: 07 May 2026
+From: 02 August 2025 - To: 08 May 2026
 
-Total Time: 951 hrs 19 mins
+Total Time: 952 hrs 36 mins
 
-TypeScript                 531 hrs 41 mins       >>>>>>>>>>>>>>===========   55.61 %
-Vue.js                     103 hrs 36 mins       >>>======================   10.84 %
-TeX                        69 hrs 23 mins        >>=======================   07.26 %
-Markdown                   69 hrs 2 mins         >>=======================   07.22 %
-JavaScript                 59 hrs 3 mins         >>=======================   06.18 %
+TypeScript                 531 hrs 42 mins       >>>>>>>>>>>>>>===========   55.53 %
+Vue.js                     103 hrs 36 mins       >>>======================   10.82 %
+TeX                        69 hrs 23 mins        >>=======================   07.25 %
+Markdown                   69 hrs 12 mins        >>=======================   07.23 %
+JavaScript                 59 hrs 4 mins         >>=======================   06.17 %
 HTML                       33 hrs 16 mins        >========================   03.48 %
 Text                       10 hrs 50 mins        =========================   01.13 %
-CSV                        8 hrs 51 mins         =========================   00.93 %
-SCSS                       8 hrs 4 mins          =========================   00.85 %
+CSV                        9 hrs 55 mins         =========================   01.04 %
+SCSS                       8 hrs 4 mins          =========================   00.84 %
 ```
 
 <!--END_SECTION:waka-->
