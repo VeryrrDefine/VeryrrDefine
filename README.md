@@ -17,13 +17,12 @@ My name is VeryrrDefine. I am in time zone UTC+08:00.
 
 ![Baixie](https://rbn-rewrite-team.github.io/RBNR/baixie.png)
 
-
-[![VeryrrDefine's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeryrrDefine&show_icons=true&theme=radical)](https://github.com/VeryrrDefine)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VeryrrDefine&theme=dark)](https://github.com/VeryrrDefine)
 <img width="1408" height="768" alt="QQ图片20260303211404" src="https://github.com/user-attachments/assets/87bd1253-8fcb-45fc-9424-c77a158f2213" />
 
 <img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/9a6b2931-4c0f-4f22-a63d-9afa6c3d05e1" />
+
+<img width="1110" height="481" alt="292408a0ed8a3a8b6fea25f39737d1a7" src="https://github.com/user-attachments/assets/9622dbd3-7caa-45e1-914e-9846c452bf08" />
 
 
 <!--START_SECTION:waka-->
