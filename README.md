@@ -24,6 +24,8 @@ My name is VeryrrDefine. I am in time zone UTC+08:00.
 
 <img width="1110" height="481" alt="292408a0ed8a3a8b6fea25f39737d1a7" src="https://github.com/user-attachments/assets/9622dbd3-7caa-45e1-914e-9846c452bf08" />
 
+<img width="320" height="198" alt="image" src="https://github.com/user-attachments/assets/10b66af1-b0a2-4183-a055-9f44ccb667c5" />
+
 
 <!--START_SECTION:waka-->
 
