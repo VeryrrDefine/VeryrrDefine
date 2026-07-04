@@ -1,5 +1,6 @@
 ## Hi there 👋
-My name is VeryrrDefine. I am in time zone UTC+08:00.
+
+My name is VeryrrDefine.
 
 - 😄 My other nicknames:
 - - VeryrrDefine
