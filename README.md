@@ -31,7 +31,7 @@ My name is VeryrrDefine.
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 August 2025 - To: 28 September 2026
+From: 02 August 2025 - To: 29 September 2026
 
 Total Time: 1,214 hrs 20 mins
 
