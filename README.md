@@ -13,8 +13,10 @@ My name is VeryrrDefine.
   - 2025-06-14 10.04
 
 - Googology
-- - [Googology Wiki(CN) Baixie01000a7](https://wiki.googology.top/index.php/%E7%94%A8%E6%88%B7:Baixie01000a7)
+  - [Googology Wiki(CN) Baixie01000a7](https://wiki.googology.top/index.php/%E7%94%A8%E6%88%B7:Baixie01000a7)
   - <del>[Googology Wiki VeryRRDefine](http://googology.fandom.com/wiki/User:VeryRRDefine)</del> (It's impossible to visit Fandom, in China Mainland, since 7 p.m. 4th Aug 2026 approximately)
+- Discord
+  - pfec_VeryrrDef(infinitydim_e308)
 
 ![Baixie](https://rbn-rewrite-team.github.io/RBNR/baixie.png)
 
